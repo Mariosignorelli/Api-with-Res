@@ -1,5 +1,5 @@
 import express from 'express';
-import statusRote from './routes/status.route';
+import statusRote from './routes/status.Route';
 import usersRoute from './routes/users.route';
 
 const app = express();
